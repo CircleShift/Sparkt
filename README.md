@@ -1,6 +1,6 @@
 # Sparkt
 Wires and stuff!
-Requires the [TransitAPI](https://github.com/CoreChg/TransitAPI).
+Requires the [TransitAPI](https://github.com/CoreChg/TransitAPI) and the [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files).
 
 ## Building
 1. Clone the repo
