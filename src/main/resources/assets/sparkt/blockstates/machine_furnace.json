@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "sparkt:block/machine_furnace" }
+  }
+}

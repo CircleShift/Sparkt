@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "sparkt:block/driver_mechanical" }
+  }
+}

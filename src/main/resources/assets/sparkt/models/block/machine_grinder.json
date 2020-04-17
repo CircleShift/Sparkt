@@ -1,0 +1,6 @@
+{
+    "parent": "sparkt:block/machine",
+    "textures": {
+      "front": "sparkt:block/grinder_side"
+    }
+}

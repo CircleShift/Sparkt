@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable_with_bottom",
+    "textures": {
+      "top": "sparkt:block/machine_top",
+      "side": "sparkt:block/machine_side",
+      "front": "#front",
+      "bottom": "sparkt:block/machine_bottom"
+    }
+}

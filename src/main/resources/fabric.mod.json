@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "sparkt",
+  "version": "0.0.1",
+
+  "name": "Sparkt",
+  "description": "Wires and whatnot!",
+  "authors": [
+    "CCGKyle"
+  ],
+  "contact": {
+    "sources": "https://github.com/CoreChg/Sparkt"
+  },
+
+  "license": "MIT",
+  "icon": "assets/sparkt/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.corechg.sparkt.SparktInit"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.15.x",
+
+    "transit-api": ">=0.10.2"
+  }
+}

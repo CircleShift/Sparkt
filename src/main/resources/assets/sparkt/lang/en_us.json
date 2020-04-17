@@ -1,0 +1,8 @@
+{
+    "block.sparkt.machine_block": "Machine Block",
+    "block.sparkt.machine_furnace": "Electric Furnace",
+    "block.sparkt.wire": "Wire",
+	"block.sparkt.machine_grinder": "Electric Crusher",
+	"block.sparkt.driver_mechanical": "Mechanical Driver",
+	"block.sparkt.driver_thermal": "Thermal Driver"
+}
